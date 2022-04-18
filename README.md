@@ -1,11 +1,19 @@
 # gradio-demo
 Gradio library demonstration
 
-[Gradio](https://gradio.app/)
+[Gradio main page](https://gradio.app/) [Gradio repo](https://github.com/gradio-app/gradio/blob/main/README.md)
 ___
 Gradio is a powerful tool that is used to create machine learning model user interfaces. It is a python package that is perfectly compatible with several machine learning frameworks such as PyTorch and TensorFlow. It can also be used to create UIs around arbitrary general-purpose Python scripts.
 
 The popularity of Gradio is increasing rapidly. It is being used by machine learning labs at large companies like Cisco and Amazon, as well as academic settings like Stanford medicine.
+
+Gradio is useful for:
+
+* **Demoing** your machine learning models for clients / collaborators / users / students
+
+* **Deploying** your models quickly with automatic shareable links and getting feedback on model performance
+
+* **Debugging** your model interactively during development using built-in manipulation and interpretation tools
 
 **Pros:**
 * Gradio offers several customizable UI components that are optimized for machine learning models. For example, Gradio provides easy-to-use drag-and-drop image classification that is highly optimized for the user.
